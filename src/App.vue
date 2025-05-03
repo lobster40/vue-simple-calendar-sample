@@ -147,17 +147,18 @@
 //import "../node_modules/vue-simple-calendar/static/css/default.css"
 //import "../node_modules/vue-simple-calendar/static/css/holidays-us.css"
 // Load CSS from the local repo
-import "../../vue-simple-calendar/dist/css/default.css"
-import "../../vue-simple-calendar/dist/css/holidays-us.css"
+import "vue-simple-calendar/dist/vue-simple-calendar.css" // published version
+import "vue-simple-calendar/dist/css/default.css"
+import "vue-simple-calendar/dist/css/holidays-us.css"
 
 //import "../node_modules/vue-simple-calendar/dist/style.css"
 //import "../node_modules/vue-simple-calendar/static/css/default.css"
 //import "../node_modules/vue-simple-calendar/static/css/holidays-us.css"
 
-//import { CalendarView, CalendarViewHeader, CalendarMath } from "vue-simple-calendar" // published version
-import CalendarView from "../../vue-simple-calendar/src/CalendarView.vue" // local repo
-import CalendarViewHeader from "../../vue-simple-calendar/src/CalendarViewHeader.vue" // local repo
-import CalendarMath from "../../vue-simple-calendar/src/CalendarMath" // local repo
+import { CalendarView, CalendarViewHeader, CalendarMath } from "vue-simple-calendar" // published version
+// import CalendarView from "../../vue-simple-calendar/src/CalendarView.vue" // local repo
+// import CalendarViewHeader from "../../vue-simple-calendar/src/CalendarViewHeader.vue" // local repo
+// import CalendarMath from "../../vue-simple-calendar/src/CalendarMath" // local repo
 
 export default {
 	name: "App",

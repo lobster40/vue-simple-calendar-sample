@@ -19,8 +19,8 @@
 		"vue-simple-calendar": "^7.2.1"
 	},
 	"devDependencies": {
-		"@vitejs/plugin-basic-ssl": "^2.0.0",
 		"@typescript-eslint/parser": "^8.28.0",
+		"@vitejs/plugin-basic-ssl": "^2.0.0",
 		"@vitejs/plugin-vue": "^5.2.3",
 		"@vue/compiler-sfc": "^3.5.13",
 		"autoprefixer": "^10.4.21",
