@@ -1,6 +1,6 @@
 # vue-simple-calendar-sample
 Main reason to create fork - I was not abble to start "sample" and either example from original repos. 
-It was not waeking in a way "npm install ->> npm run dev"
+It was not warking in a way proposed by readme: "npm install -> npm run dev"
 
 I fixed it somehow and demo is working now.
 
