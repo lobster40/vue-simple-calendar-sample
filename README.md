@@ -1,4 +1,4 @@
-# vue-simple-calendar-sample
+# vue-simple-calendar-sample - works without shaman's devices
 Main reason to create fork - I was not abble to start "sample" and either example from original repos. 
 It was not warking in a way proposed by readme: "npm install -> npm run dev"
 
